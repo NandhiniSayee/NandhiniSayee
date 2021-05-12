@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NandhiniSayee
-- 👀 I’m interested in Control Systems and Robotics
+- 👀 I’m interested in Robotics and Machine Learning.
 - 🌱 I’m currently looking for jobs
 - 💞️ I’m looking to collaborate on ROS projects
 - 📫 How to reach me LinkedIn profile : Seeranga Nandhini Sayee Sankara Ganapathy
